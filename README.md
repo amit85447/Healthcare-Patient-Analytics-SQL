@@ -1,5 +1,6 @@
 # 🏥 Healthcare Patient Analytics & Clinical Operations (MySQL)
 
+
 [![SQL](https://img.shields.io/badge/Language-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Domain](https://img.shields.io/badge/Domain-Healthcare_Analytics-blue?style=for-the-badge)](#)
 [![Database](https://img.shields.io/badge/Database-MySQL_Workbench-informational?style=for-the-badge&logo=mysql)](#)
